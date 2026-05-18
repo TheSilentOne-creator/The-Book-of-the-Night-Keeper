@@ -101,7 +101,7 @@
    - 这里是 **“人话版”**。我会把 `所有权` 比喻成“图书馆借书规则”，把 `生命周期` 比喻成“牛奶的保质期”。
    - **学完这一课，你将解锁：** 一门未来的底层系统语言能力，让你在写Shellcode或POC时，拥有极致的速度和极低的崩溃率。
 8. `[进阶]` **详解计算机科学丛书** -- 啃透这些黑皮书，你就是大神
-   - 如果你觉得看完了上面的教程，感觉自己“啥都会了但又啥都不会”，说明你缺了内**功**。
+   - 如果你觉得看完了上面的教程，感觉自己“啥都会了但又啥都不会”，说明你缺了**内功**。
    - 这是一份读书笔记/伴读指南。针对那些经典的“黑皮书”（如《计算机网络》、《深入理解计算机系统》）。
    - 我不会帮你读书，但我告诉你**哪些章节是面试必考的、哪些算法是写Exploit必用的、哪些理论可以跳过。**
    - **学完这一课，你将解锁：** 一颗计算机科学的大脑。从此以后，任何新的漏洞和框架在你眼里，都不过是基础原理的排列组合。
@@ -116,6 +116,10 @@
 - **我们不做**：非法攻击、盈利、暴露成员身份
 
 **守夜者宣言**：长夜将至，我从今开始守夜，今夜如此，夜夜皆然。
+
+---
+
+**加入我们**：如果你也在从零开始，想找个人一起守夜，Fork 这个仓库，写下你的第一行笔记。
 
 ---
 
@@ -219,7 +223,11 @@ I am a member of the Night Keepers, a tech learning community.
 - **We believe**: Start from zero. Progress together.
 - **We do not engage in**: Illegal attacks, profit-making, or exposing members' identities.
 
-**The Night Keeper's Oath**: *The night is long, and I begin my watch from this night. This night, and all nights to come.*
+**The Night Keeper's Oath**: *Night gathers, and now my watch begins. This night, and all nights to come.*
+
+---
+
+**Join us**: If you're also starting from zero and looking for someone to keep watch with, Fork this repository and write your first note.
 
 ---
 
