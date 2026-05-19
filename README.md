@@ -52,7 +52,7 @@
 
 | # | 教程 | 状态 | 链接 |
 | :--- | :--- | :--- | :--- |
-| 01 | **玩转 Markdown** | 🚧 编写中 | [开始阅读](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book/blob/main/%E4%B8%AD%E6%96%87%20(Chinese)/01.%20%E8%BF%99%E6%89%8D%E6%98%AF%20Markdown/01.%20%E8%BF%99%E6%89%8D%E6%98%AF%20Markdown.md) |
+| 01 | **玩转 Markdown** | 🚧 编写中 | [开始阅读](<./中文 (Chinese)/01. 玩转 Markdown/01.玩转 Markdown.md>) |
 | 02 | **玩转 VS Code** | 📝 等待中 | 敬请期待 |
 | 03 | **十节课极简入门 VIM** | 📝 等待中 | 敬请期待 |
 | 04 | **拿捏 Git 与 GitHub** | 📝 等待中 | 敬请期待 |
@@ -85,14 +85,14 @@
    - **Git** 就是专门治这种“版本混乱”病的。它不仅记下了你每次改了啥，还能让你一键回到“昨天下午那个还没改崩的状态”。
    - 而 **GitHub** 是程序员的“朋友圈”，也是最牛逼的代码仓库。这套教程会教你：**如何把代码白嫖（Fork）下来、如何更新、以及如何把你的开源项目变成简历上的亮点。**
    - **学完这一课，你将解锁：** 拥有一个绿油油的GitHub贡献墙，以及那句让你底气十足的：“来，先 Fork 我的项目。”
-5. **这才是网络安全 (全六季)** -- 省下一万块，看完这一套
+5. **这才是网络安全 (全六季)** -- 省下一万块的培训，**免费**看完这一套
    - 你有没有过这种经历：看了好多碎片化的文章，觉得“我行了”，一上手发现“我啥也不会”？
    - 全六季采用 **“相声式”教学法** —— 保证没有昏昏欲睡的理论，只有让你笑完还能记住的攻击手法。比如：“什么叫XSS？就是你在我评论区发了个脚本，我一打开网页，弹窗说‘你被耍了’。”
    - 从Web渗透到内网漫游，从信息收集到日志溯源，这条路我给你铺好了，你只需要跟着走。
    - **学完这一课，你将解锁：** 完整的网络安全知识体系 + 一套可以在面试官面前侃侃而谈的实战项目经验。
 6. `[进阶]` **用 Python 写安全工具** -- 不要重复造轮子，但要学会改装轮子
    - 只会用别人写好的工具，你永远是个脚本小子。
-   - 当SQLMap跑不出注入时，当Nmap扫得不够精细时，你需要自己写一个脚本。
+   - 当 SQLMap 跑不出注入时，当 Nmap 扫得不够精细时，你需要自己写一个脚本。
    - 这套教程不讲爬虫和Web开发，只讲**网安视角的Python**：写一个端口扫描器、写一个弱口令爆破工具、写一个日志分析脚本。
    - **学完这一课，你将解锁：** 把枯燥的渗透工作自动化——点一下鼠标，让电脑帮你干活，然后你去喝杯咖啡。
 7. `[进阶]` **这才是人可以看懂的 Rust 教程** -- C++ 太难？Python 太慢？来试试 Rust
@@ -100,7 +100,7 @@
    - 市面上Rust教程的特点就是“入门到放弃”，因为所有权、生命周期这些概念太抽象了。
    - 这里是 **“人话版”**。我会把 `所有权` 比喻成“图书馆借书规则”，把 `生命周期` 比喻成“牛奶的保质期”。
    - **学完这一课，你将解锁：** 一门未来的底层系统语言能力，让你在写Shellcode或POC时，拥有极致的速度和极低的崩溃率。
-8. `[进阶]` **详解计算机科学丛书** -- 啃透这些黑皮书，你就是大神
+8. `[进阶]` **详解计算机科学丛书** -- 追随计算机科学的初心，用“大块头”体会编程之道
    - 如果你觉得看完了上面的教程，感觉自己“啥都会了但又啥都不会”，说明你缺了**内功**。
    - 这是一份读书笔记/伴读指南。针对那些经典的“黑皮书”（如《计算机网络》、《深入理解计算机系统》）。
    - 我不会帮你读书，但我告诉你**哪些章节是面试必考的、哪些算法是写Exploit必用的、哪些理论可以跳过。**
@@ -160,7 +160,7 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 
 | # | Tutorial | Status | Link |
 | :--- | :--- | :--- | :--- |
-| 01 | **Mastering Markdown** | 🚧 Writing | [Start Reading](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book/blob/main/English%20(%E8%8B%B1%E6%96%87)/01.%20This%20is%20Markdown/01.%20This%20is%20Markdown.md) |
+| 01 | **Mastering Markdown** | 🚧 Writing | [Start Reading](<./English (英文)/01. Mastering Markdown/01.Mastering Markdown.md>) |
 | 02 | **Mastering VS Code** | 📝 Planned | Coming soon |
 | 03 | **VIM in 10 Lessons** | 📝 Planned | Coming soon |
 | 04 | **Git & GitHub by the Horns** | 📝 Planned | Coming soon |
@@ -193,7 +193,7 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
     - **Git** is the cure for this "version chaos" disease. It not only remembers every change you made, but also lets you instantly return to "that state yesterday afternoon before everything broke."
     - And **GitHub** is the programmer's "social circle" and the most awesome code repository. This tutorial will teach you: **how to clone code for free (Fork), how to update it, and how to turn your open-source project into a highlight on your resume.**
     - **What you'll unlock:** A super green GitHub contribution wall, and the confidence to say: "Hey, just Fork my project first."
-5. **This Is Cybersecurity (6 Seasons)** -- Save yourself ten grand. Watch this instead.
+5. **This Is Cybersecurity (6 Seasons)** -- Save yourself the cost of a training course. Watch this for **free** instead.
     - Ever had this experience: read tons of fragmented articles, felt like "I've got this," then actually tried something and realized "I know nothing"?
     - All six seasons use a **"Comedy Show" teaching style**—no boring theories, only attack techniques you'll remember after a good laugh. Like: "What's XSS? It's when someone posts a script in my comments, and when I open the page, a popup says 'You got pwned.'"
     - From Web penetration testing to intranet roaming, from information gathering to log tracing, I've paved this path for you. You just need to follow it.
@@ -208,7 +208,7 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
     - Most Rust tutorials on the market are "from beginner to giving up," because concepts like Ownership and Lifetimes are too abstract.
     - This is the **"human language" version**. I'll explain `Ownership` as "library borrowing rules" and `Lifetimes` as "milk expiration dates."
     - **What you'll unlock:** A future-proof systems language skill, giving you extreme speed and extremely low crash rates when writing Shellcode or POCs.
-8. `[Advanced]` **The Computer Science Canon Explained** -- Conquer these black books, and you'll become a master.
+8. `[Advanced]` **The Computer Science Canon Explained** -- Return to the heart of computer science. Grasp the Tao of programming through these mighty tomes.
     - If you finish the tutorials above and feel like you "know everything and nothing at all," it means you're lacking **inner strength**.
     - This is a reading guide/companion. It's targeted at those classic "black books" (like *Computer Networking*, *Computer Systems: A Programmer's Perspective*).
     - I won't read the book for you, but I will tell you **which chapters are must-knows for interviews, which algorithms are essential for writing exploits, and which theories you can skip.**
