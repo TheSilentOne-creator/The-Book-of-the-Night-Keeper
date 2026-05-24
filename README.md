@@ -9,6 +9,7 @@
     - [📚 这里有什么](#-这里有什么)
     - [🚀 从哪里开始](#-从哪里开始)
       - [各教程介绍](#各教程介绍)
+      - [怎么学？](#怎么学)
     - [🌐 关于守夜者](#-关于守夜者)
     - [📄 许可证](#-许可证)
   - [English version](#english-version)
@@ -16,6 +17,7 @@
     - [📚 What's inside?](#-whats-inside)
     - [🚀 Where to start?](#-where-to-start)
       - [Tutorial Introductions](#tutorial-introductions)
+      - [How to learn?](#how-to-learn)
     - [🌐 About the Night Keepers](#-about-the-night-keepers)
     - [📄 License](#-license)
 
@@ -105,6 +107,31 @@
    - 这是一份读书笔记/伴读指南。针对那些经典的“黑皮书”（如《计算机网络》、《深入理解计算机系统》）。
    - 我不会帮你读书，但我告诉你**哪些章节是面试必考的、哪些算法是写Exploit必用的、哪些理论可以跳过。**
    - **学完这一课，你将解锁：** 一颗计算机科学的大脑。从此以后，任何新的漏洞和框架在你眼里，都不过是基础原理的排列组合。
+
+---
+
+#### 怎么学？
+
+本教程完全面向零基础，哪怕你连最基本的工具都不会用。
+
+为了让基础工具（`01`~`04`）的学习不枯燥，并让你尽快接触到安全知识的乐趣，建议你按照以下路径学习：
+
+1. **务必先学 `01. 玩转 Markdown`**  
+   这是你写文档、做笔记，乃至**写漏洞报告** 时都要使用的一种**标记语言**（类似于 Word，但是纯文本！）。它是整个学习旅程的书写基础。
+
+2. **接下来学习 `02. 玩转 VS Code`**  
+   学好了这将是你写代码、做笔记、写 Markdown……的**利器**，你的核心工作台。
+
+3. **下一个 `03. 十节课极简入门 VIM` 学起来有一点难度**  
+   但你不得不学。因为等你以后~~黑进~~操作服务器时，系统自带的编辑器不是 VSCode，而是 VIM。  
+   **为了补偿你这受伤的小心灵，一边学习 VIM，一边可以看看 `05. 这才是网络安全 (全六季)` 的第零季 —— “火种”。**  
+   这一季将带你追寻最初的黑客精神与文化，~~纯属于是听故事了~~，但这将非常有意思，让你理解安全圈的缘起。
+
+4. **如果你终于学完、学透了 VIM，那么下一个就是 `04. 拿捏 Git 与 GitHub`**  
+   这俩货能干什么，我们已在前面介绍过了。  
+   你可以开始**一边**学习 Git 与 GitHub，**一边**开始正式进入 `05. 这才是网络安全` 的第一季学习啦！
+
+接下来的 `这才是网络安全 (全六季)` 就可以按照顺序深入学习了。
 
 ---
 
@@ -213,6 +240,31 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
     - This is a reading guide/companion. It's targeted at those classic "black books" (like *Computer Networking*, *Computer Systems: A Programmer's Perspective*).
     - I won't read the book for you, but I will tell you **which chapters are must-knows for interviews, which algorithms are essential for writing exploits, and which theories you can skip.**
     - **What you'll unlock:** A computer science brain. From then on, any new vulnerability or framework will just look like permutations and combinations of fundamental principles.
+
+---
+
+#### How to learn?
+
+This tutorial is entirely for absolute beginners, even if you don't know the most basic tools.
+
+To keep the foundational tools (`01`–`04`) from feeling boring and to get you into the fun of security knowledge as soon as possible, here's the recommended learning path:
+
+1. **Start with `01. Mastering Markdown`**  
+   This is the **markup language** (think Word, but pure text!) you'll use for writing documents, taking notes, and even **drafting vulnerability reports**. It's the writing foundation of your entire journey.
+
+2. **Next, move on to `02. Mastering VS Code`**  
+   Once mastered, this will be your **ultimate weapon** for writing code, taking notes, composing Markdown… your core workbench.
+
+3. **Then comes `03. VIM in 10 Lessons` — it's a bit challenging**  
+   But you have to learn it. Because when you're finally ~~hacking into~~ operating a server, the built-in editor won't be VSCode—it'll be VIM.  
+   **To soothe your bruised soul, while you're learning VIM, you can start watching the "Season Zero — The Spark" of `05. This Is Cybersecurity`.**  
+   This season takes you back to the original hacker spirit and culture. It's basically story time, but it's incredibly fun and helps you understand the roots of the security world.
+
+4. **Once you've finally learned and internalized VIM, the next stop is `04. Git & GitHub by the Horns`**  
+   You already know what these two do.  
+   At this point, you can **split your time**: continue with Git & GitHub on one side, and officially dive into **Season One** of `05. This Is Cybersecurity` on the other!
+
+After that, you can follow the rest of `This Is Cybersecurity (6 Seasons)` in order.
 
 ---
 
