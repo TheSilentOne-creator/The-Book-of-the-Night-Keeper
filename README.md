@@ -133,6 +133,15 @@
 
 接下来的 `这才是网络安全 (全六季)` 就可以按照顺序深入学习了。
 
+```mermaid
+flowchart LR
+    A[01. Markdown] --> B[02. VS Code]
+    B --> C[03. VIM]
+    B --> D[05. 网络安全 第零季]
+    C --> E[04. Git]
+    E --> F[05. 网络安全 第一季]
+```
+
 ---
 
 ### 🌐 关于守夜者
@@ -146,7 +155,9 @@
 
 ---
 
-**加入我们**：如果你也在从零开始，想找个人一起守夜，Fork 这个仓库，写下你的第一行笔记。
+> **加入我们**:  
+> 如果你也在从零开始，想找个人一起守夜，Fork 这个仓库，写下你的第一行笔记。  
+> Fork后，在 `/community/` 下新建 `你的名字.md`，写下你今天的收获。
 
 ---
 
@@ -266,6 +277,15 @@ To keep the foundational tools (`01`–`04`) from feeling boring and to get you 
 
 After that, you can follow the rest of `This Is Cybersecurity (6 Seasons)` in order.
 
+```mermaid
+flowchart LR
+    A[01. Markdown] --> B[02. VS Code]
+    B --> C[03. VIM]
+    B --> D[05. Cybersecurity Season Zero]
+    C --> E[04. Git]
+    E --> F[05. Cybersecurity Season One]
+```
+
 ---
 
 ### 🌐 About the Night Keepers
@@ -279,7 +299,9 @@ I am a member of the Night Keepers, a tech learning community.
 
 ---
 
-**Join us**: If you're also starting from zero and looking for someone to keep watch with, Fork this repository and write your first note.
+> **Join us**:  
+> If you're also starting from zero and looking for someone to keep watch with, Fork this repository and write your first note.  
+> After forking, create a new file under `/community/` named `your-name.md` and write down what you learned today.
 
 ---
 
