@@ -151,7 +151,20 @@ flowchart LR
 - **我们相信**：从零开始，一起进步
 - **我们不做**：非法攻击、盈利、暴露成员身份
 
-**守夜者宣言**：长夜将至，我从今开始守夜，今夜如此，夜夜皆然。
+> **守夜者宣言**：
+> 长夜将至，我从今开始守望，至死方休。  
+> 我将不设名利、不占资源、不留痕迹。  
+> 我将不执权柄，不逐荣光。  
+> 我将生死于城上，进退于暗网。  
+>
+> 我是黑暗中的指令。  
+> 我是城墙上的守望者。  
+> 我是抵御入侵的防火墙，  
+> 是唤醒沉睡者的警报，  
+> 是守卫数据疆域的盾。  
+>
+> 我将生命与荣耀，献给守夜者。  
+> 今夜如此，夜夜皆然。  
 
 ---
 
@@ -295,7 +308,22 @@ I am a member of the Night Keepers, a tech learning community.
 - **We believe**: Start from zero. Progress together.
 - **We do not engage in**: Illegal attacks, profit-making, or exposing members' identities.
 
-**The Night Keeper's Oath**: *Night gathers, and now my watch begins. This night, and all nights to come.*
+> **The Keeper‘s Oath**  
+> Night falls, and now my watch begins.  
+> It shall not end until my system halts.  
+> I shall claim no credit, hold no data, father no exploits.  
+> I shall wear no crown of fame, and win no applause.  
+> I shall live and die at my terminal.  
+>
+> I am the script in the darkness.  
+> I am the watcher on the firewall.  
+> I am the code that burns against the breach,  
+> the log that brings the dawn,  
+> the alert that wakes the sleepers,  
+> the shell that guards the realms of data.  
+>
+> I pledge my life and honor to the Keepers of the Night,  
+> for this night and all the nights to come.  
 
 ---
 
