@@ -56,7 +56,7 @@
 | :--- | :--- | :--- | :--- |
 | 01 | **玩转 Markdown** | 🚧 编写中 | [开始阅读](<./中文 (Chinese)/01. 玩转 Markdown/01.玩转 Markdown.md>) |
 | 02 | **玩转 VS Code** | 🚧 编写中 | [开始阅读](<./中文 (Chinese)/02. 玩转 VS Code/02. 玩转 VS Code.md>) |
-| 03 | **十节课极简入门 VIM** | 📝 等待中 | 敬请期待 |
+| 03 | **VIM 从入门到得体** | 📝 等待中 | 敬请期待 |
 | 04 | **拿捏 Git 与 GitHub** | 📝 等待中 | 敬请期待 |
 | 05 | **这才是网络安全 (全六季)** | 📝 等待中 | 敬请期待 |
 | 06 | `[进阶]` **用 Python 写安全工具** | 📝 等待中 | 敬请期待 |
@@ -77,7 +77,7 @@
    - 很多人用了好几年VS Code，还把它当成一个高级记事本——就像买了辆法拉利却只用来推着走。  
    - 本教程手把手教你装上那些 **“开了挂”的插件** ：远程写服务器代码、AI帮你补全、一键格式化乱糟糟的代码。  
    - **学完这一课，你将解锁：** 一个能让你在任何地方（甚至iPad上）写代码的云端开发环境，让写代码变成一种享受。
-3. **十节课极简入门 VIM** -- 没有图形界面？那就用键盘征服世界
+3. **VIM 从入门到得体** -- 没有图形界面？那就用键盘征服世界
    - 听好了，菜鸟。当你还在纠结用鼠标点击“保存”按钮时，真正的黑客早已在VIM里键入 `:wq` 潇洒离去。
    - VIM是Linux系统里的 **“文字游戏”** ，它的学习曲线陡峭得像悬崖。但只要你爬上去了，就能体验到“手不离键盘，思绪如流水”的快感。
    - 我们只讲10节课，绝不让你背那些一辈子用不到的花哨命令。你只需要学会：**怎么进去、怎么改字、怎么保存、怎么拍桌子骂娘然后退出。**
@@ -122,7 +122,7 @@
 2. **接下来学习 `02. 玩转 VS Code`**  
    学好了这将是你写代码、做笔记、写 Markdown……的**利器**，你的核心工作台。
 
-3. **下一个 `03. 十节课极简入门 VIM` 学起来有一点难度**  
+3. **下一个 `03. VIM 从入门到得体` 学起来有一点难度**  
    但你不得不学。因为等你以后~~黑进~~操作服务器时，系统自带的编辑器不是 VSCode，而是 VIM。  
    **为了补偿你这受伤的小心灵，一边学习 VIM，一边可以看看 `05. 这才是网络安全 (全六季)` 的第零季 —— “火种”。**  
    这一季将带你追寻最初的黑客精神与文化，~~纯属于是听故事了~~，但这将非常有意思，让你理解安全圈的缘起。
@@ -140,6 +140,7 @@ flowchart LR
     B --> D[05. 网络安全 第零季]
     C --> E[04. Git]
     E --> F[05. 网络安全 第一季]
+    D --> F[05. 网络安全 第一季]
 ```
 
 ---
@@ -212,8 +213,8 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 | # | Tutorial | Status | Link |
 | :--- | :--- | :--- | :--- |
 | 01 | **Mastering Markdown** | 🚧 Writing | [Start Reading](<./English (英文)/01. Mastering Markdown/01.Mastering Markdown.md>) |
-| 02 | **Mastering VS Code** | 📝 Planned | Coming soon |
-| 03 | **VIM in 10 Lessons** | 📝 Planned | Coming soon |
+| 02 | **Mastering VS Code** | 🚧 Writing | [Start Reading](<./English (英文)/02. Mastering VS Code/02. Mastering VS Code.md>) |
+| 03 | **VIM from Adequate to Decent** | 📝 Planned | Coming soon |
 | 04 | **Git & GitHub by the Horns** | 📝 Planned | Coming soon |
 | 05 | **This Is Cybersecurity (6 Seasons)** | 📝 Planned | Coming soon |
 | 06 | `[Advanced]` **Writing Security Tools in Python** | 📝 Planned | Coming soon |
@@ -234,7 +235,7 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
     - Many people use VS Code for years but treat it like a fancy Notepad—it's like buying a Ferrari and only using it to push it around.
     - This tutorial will walk you through installing those **"cheat-code" plugins**: writing code on a remote server, AI-powered auto-completion, and formatting messy code with one click.
     - **What you'll unlock:** A cloud development environment that lets you write code anywhere (even on an iPad), turning coding into pure enjoyment.
-3. **VIM in 10 Lessons** -- No GUI? Conquer the world with your keyboard.
+3. **VIM from Adequate to Decent** -- No GUI? Conquer the world with your keyboard.
     - Listen up, rookie. While you're still fumbling with the mouse to click the "Save" button, a true hacker has already typed `:wq` in VIM and left the building.
     - VIM is the **"text-based game"** in Linux systems. Its learning curve is as steep as a cliff. But once you climb it, you'll experience the flow state of "hands never leaving the keyboard, thoughts flowing like water."
     - We only cover 10 lessons. I won't make you memorize fancy commands you'll never use. You just need to learn: **how to enter, how to change text, how to save, and how to slam the table, curse, and exit.**
@@ -279,7 +280,7 @@ To keep the foundational tools (`01`–`04`) from feeling boring and to get you 
 2. **Next, move on to `02. Mastering VS Code`**  
    Once mastered, this will be your **ultimate weapon** for writing code, taking notes, composing Markdown… your core workbench.
 
-3. **Then comes `03. VIM in 10 Lessons` — it's a bit challenging**  
+3. **Then comes `03. VIM from Adequate to Decent` — it's a bit challenging**  
    But you have to learn it. Because when you're finally ~~hacking into~~ operating a server, the built-in editor won't be VSCode—it'll be VIM.  
    **To soothe your bruised soul, while you're learning VIM, you can start watching the "Season Zero — The Spark" of `05. This Is Cybersecurity`.**  
    This season takes you back to the original hacker spirit and culture. It's basically story time, but it's incredibly fun and helps you understand the roots of the security world.
@@ -297,6 +298,7 @@ flowchart LR
     B --> D[05. Cybersecurity Season Zero]
     C --> E[04. Git]
     E --> F[05. Cybersecurity Season One]
+    D --> F[05. Cybersecurity Season One]
 ```
 
 ---
@@ -308,7 +310,7 @@ I am a member of the Night Keepers, a tech learning community.
 - **We believe**: Start from zero. Progress together.
 - **We do not engage in**: Illegal attacks, profit-making, or exposing members' identities.
 
-> **The Keeper‘s Oath**  
+> **The Keeper's Oath**  
 > Night falls, and now my watch begins.  
 > It shall not end until my system halts.  
 > I shall claim no credit, hold no data, father no exploits.  
