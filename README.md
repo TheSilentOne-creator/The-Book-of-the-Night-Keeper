@@ -60,7 +60,7 @@
 | 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
 | 05 | **这才是网络安全 (全六季)** | :pencil: 等待中 | 敬请期待 |
 | 06 | `[进阶]` **用 Python 写安全工具** | :pencil: 等待中 | 敬请期待 |
-| 07 | `[进阶]` **Rust：灰烬之战** | :pencil: 等待中 | 敬请期待 |
+| 07 | `[进阶]` **最终章 - Rust：灰烬之战** | :pencil: 等待中 | 敬请期待 |
 | 08 | `[进阶]` **详解计算机科学丛书** | :date: 计划中 | 敬请期待 |
 
 > 所有教程采用**中英双语**编写：先用中文写完，再翻译成英文。
@@ -130,11 +130,11 @@
 1. **务必先学 `01. 玩转 Markdown`**  
    这是你写文档、做笔记，乃至**写漏洞报告**时都要使用的一种**标记语言**（类似于 Word，但是纯文本！）。它是整个学习旅程的书写基础。
 
-2. **接下来学习 `02. 玩转 VS Code`**  
-   学好了这将是你写代码、做笔记、写 Markdown……的**利器**，你的核心工作台。
+2. **在学 Markdown 的同时，可以开始看 `05. 这才是网络安全` 的“第零季：火种”**  
+   第零季讲的是黑客文化与精神，非常有趣，像听故事一样。它不需要任何技术基础，适合在你练习 Markdown 语法时当作调剂。这是主线剧情的前传，先点燃你的热情。
 
-3. **现在，正式踏入安全的大门：`05. 这才是网络安全` 第一季**  
-   学完写作和编辑器的基本功，你已经准备好开始真正的安全之旅。第一季将带你建立完整的安全世界观。这是主线，其他都是支线。
+3. **接下来学习 `02. 玩转 VS Code`**  
+   学好了这将是你写代码、做笔记、写 Markdown……的**利器**，你的核心工作台。同时，你可以正式进入 `05. 这才是网络安全` 的**第一季**，开始学习真正的渗透测试基础。
 
 4. **在学第一季的同时，顺手拿下 `04. 拿捏 Git 与 GitHub`**  
    写代码、做项目，离不开版本控制。Git 帮你管理每一次修改，GitHub 让你的项目能被全世界看到。这时候学 Git，是因为你已经开始写安全练习的代码，需要版本管理了。
@@ -158,12 +158,14 @@
 ```mermaid
 flowchart LR
     A[01. Markdown] --> B[02. VS Code]
-    B --> C[05. 网络安全 第一季]
-    C --> D[04. Git & GitHub]
-    C --> E[03. VIM]
-    C --> F[07. Rust: 灰烬之战]
-    C --> G[06. Python 安全工具]
-    C --> H[08. 计算机科学丛书]
+    A --> C[05. 网络安全 - 第零季 : 火种]
+    B --> D[04. Git & GitHub]
+    C --> E[05. 网络安全 - 第一季]
+    D --> F[03. VIM]
+    E --> G[05. 网络安全 - 第二季]
+    G --> H[05. 网络安全 - 第三季]
+    F --> I[07. Rust: 灰烬之战]
+    
 ```
 
 ---
@@ -298,11 +300,11 @@ To keep the foundational tools (`01`–`04`) from feeling boring and to get you 
 1. **Start with `01. Mastering Markdown`**  
    This is the **markup language** (think Word, but pure text!) you'll use for writing documents, taking notes, and even **drafting vulnerability reports**. It's the writing foundation of your entire journey.
 
-2. **Next, move on to `02. Mastering VS Code`**  
-   Once mastered, this will be your **ultimate weapon** for writing code, taking notes, composing Markdown… your core workbench.
+2. **While learning Markdown, start watching `05. This Is Cybersecurity` Season Zero: The Spark**  
+   Season Zero is about hacker culture and spirit. It's incredibly fun, like story time. It requires zero technical background and is perfect as a breather while you practice Markdown. This is the prequel to the main story—let it ignite your passion first.
 
-3. **Now, officially enter the world of security: `05. This Is Cybersecurity` Season One**  
-   With writing and editor skills in hand, you're ready for the real journey. Season One will give you a complete security worldview. This is the main quest; everything else is a side quest.
+3. **Next, move on to `02. Mastering VS Code`**  
+   Once mastered, this will be your **ultimate weapon** for writing code, taking notes, composing Markdown… your core workbench. At the same time, you can officially dive into **Season One** of `05. This Is Cybersecurity` and start learning real penetration testing fundamentals.
 
 4. **While studying Season One, pick up `04. Git & GitHub by the Horns`**  
    Writing code and doing projects requires version control. Git manages your changes, GitHub lets the world see your work. You're learning this now because you're starting to write security practice code.
@@ -326,12 +328,14 @@ After that, you can follow the rest of `05. This Is Cybersecurity (6 Seasons)` i
 ```mermaid
 flowchart LR
     A[01. Markdown] --> B[02. VS Code]
-    B --> C[05. Cybersecurity Season 1]
-    C --> D[04. Git & GitHub]
-    C --> E[03. VIM]
-    C --> F[07. Rust: The Ash War]
-    C --> G[06. Python Security Tools]
-    C --> H[08. CS Canon]
+    A --> C[05. Cybersecurity - Season Zero: The Spark]
+    B --> D[04. Git & GitHub]
+    C --> E[05. Cybersecurity - Season One]
+    D --> F[03. VIM]
+    E --> G[05. Cybersecurity - Season Two]
+    G --> H[05. Cybersecurity - Season Three]
+    F --> I[07. Rust: The Ash War]
+    
 ```
 
 ---
