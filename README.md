@@ -55,8 +55,8 @@
 | # | 教程 | 状态 | 链接 |
 | :--- | :--- | :--- | :--- |
 | 01 | **玩转 Markdown** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/01. 玩转 Markdown/01.玩转 Markdown.md>) |
-| 02 | **玩转 VS Code** | :pencil: 等待中 | 敬请期待 |
-| 03 | **VIM 从入门到得体** | :pencil: 等待中 | 敬请期待 |
+| 02 | **玩转 VS Code** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/02. 玩转 VS Code/02. 玩转 VS Code.md>) |
+| 03 | **VIM 从入门到得体** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/03. VIM 从入门到得体/03. VIM 从入门到得体.md>) |
 | 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
 | 05 | **这才是网络安全 (全六季)** | :pencil: 等待中 | 敬请期待 |
 | 06 | `[进阶]` **用 Python 写安全工具** | :pencil: 等待中 | 敬请期待 |
