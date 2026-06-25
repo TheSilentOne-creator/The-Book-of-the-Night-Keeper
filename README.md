@@ -1,5 +1,8 @@
 # 守夜者之书 / The Night Keeper's Book
 
+![GitHub stars](https://img.shields.io/github/stars/TheSilentOne-creator/The-Night-Keeper-s-Book?style=social)
+![GitHub license](https://img.shields.io/github/license/TheSilentOne-creator/The-Night-Keeper-s-Book)
+
 ## 目录 / Table of Contents
 
 - [守夜者之书 / The Night Keeper's Book](#守夜者之书--the-night-keepers-book)
