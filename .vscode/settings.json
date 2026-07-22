@@ -1,0 +1,10 @@
+{
+  "markdown-pdf.styles": ["./my-style.css"], // 路径相对于项目根目录
+  "markdown-pdf.mermaidServer": "https://unpkg.com/mermaid/dist/mermaid.min.js",
+  "markdown-pdf.format": "A4", // 纸张大小
+  "markdown-pdf.margin.top": "25mm", // 页边距
+  "markdown-pdf.displayHeaderFooter": true, // 显示页眉页脚
+  "markdown-pdf.headerTemplate": "<div>标题</div>", // 页眉内容
+  "markdown-pdf.footerTemplate": "<div>页码 <span class='pageNumber'></span></div>", // 页脚页码
+  "markdown-pdf.convertOnSave": false // 保存时自动导出
+}
