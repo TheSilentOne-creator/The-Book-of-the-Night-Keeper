@@ -11,16 +11,12 @@
     - [:book: 这是什么](#book-这是什么)
     - [:books: 这里有什么](#books-这里有什么)
     - [:rocket: 从哪里开始](#rocket-从哪里开始)
-      - [各教程介绍](#各教程介绍)
-      - [怎么学？](#怎么学)
     - [:globe\_with\_meridians: 关于守夜者](#globe_with_meridians-关于守夜者)
     - [:page\_facing\_up: 许可证](#page_facing_up-许可证)
   - [English version](#english-version)
     - [:book: What is this?](#book-what-is-this)
     - [:books: What's inside?](#books-whats-inside)
     - [:rocket: Where to start?](#rocket-where-to-start)
-      - [Tutorial Introductions](#tutorial-introductions)
-      - [How to learn?](#how-to-learn)
     - [:globe\_with\_meridians: About the Night Keepers](#globe_with_meridians-about-the-night-keepers)
     - [:page\_facing\_up: License](#page_facing_up-license)
 
@@ -61,14 +57,14 @@
 | 02 | **玩转 VS Code** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/02. 玩转 VS Code/02. 玩转 VS Code.md>) |
 | 03 | **VIM 从入门到得体** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/03. VIM 从入门到得体/03. VIM 从入门到得体.md>) |
 | 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
-| 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | 敬请期待 |
+| 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
 | 06 | `[进阶]` **用 Python 写安全工具** | :date: 计划中 | 敬请期待 |
 | 07 | `[进阶]` **最终章 - Rust：灰烬之战** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/07. [进阶] 最终章 - Rust：灰烬之战/07. [进阶] 最终章 - Rust：灰烬之战.md>) |
 | 08 | `[进阶]` **详解计算机科学丛书** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/08. [进阶] 详解计算机科学丛书/01.《编码》逐章精读指南/01.《编码》逐章精读指南.md>) |
 
 > 所有教程采用**中英双语**编写：先用中文写完，再翻译成英文。
 
-#### 各教程介绍
+#### 各教程介绍<!-- omit in toc -->
 
 1. **玩转 Markdown** - 别再傻乎乎地用记事本写笔记了！  
    - 你是不是还在忍受Word排版时图片乱飞、格式崩溃的痛苦？或者写了半天笔记，粘到网页上丑得自己都不想看？  
@@ -120,7 +116,7 @@
 
 ---
 
-#### 怎么学？
+#### 怎么学？<!-- omit in toc -->
 
 本教程完全面向零基础，哪怕你连最基本的工具都不会用。
 
@@ -227,9 +223,9 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 
 | # | Tutorial | Status | Link |
 | :--- | :--- | :--- | :--- |
-| 01 | **Mastering Markdown** | :pencil: Translating | [Start Reading](<./English (英文)/01. Mastering Markdown/01.Mastering Markdown.md>) |
-| 02 | **Mastering VS Code** | :pencil: Translating | [Start Reading](<./English (英文)/02. Mastering VS Code/02. Mastering VS Code.md>) |
-| 03 | **VIM: From Entry to Decency** | :construction: Writing | [Start Reading](<./English (英文)/03. VIM From Entry to Decency/03. VIM From Entry to Decency.md>) |
+| 01 | **Mastering Markdown** | :pencil: Translating | Coming soon |
+| 02 | **Mastering VS Code** | :pencil: Translating | Coming soon |
+| 03 | **VIM: From Entry to Decency** | :construction: Writing | Coming soon |
 | 04 | **Git & GitHub by the Horns** | :pencil: Planned | Coming soon |
 | 05 | **This Is Cybersecurity (6 Seasons)** | :construction: Writing | Coming soon |
 | 06 | `[Advanced]` **Writing Security Tools in Python** | :date: Planned | Coming soon |
@@ -238,7 +234,7 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 
 > *All tutorials are bilingual: first written in Chinese, then translated into English.*
 
-#### Tutorial Introductions
+#### Tutorial Introductions<!-- omit in toc -->
 
 1. **Mastering Markdown** -- Stop using Notepad like a caveman!
     - Are you still suffering from images flying everywhere and formats crashing in Word? Or have you written pages of notes that look so ugly on a webpage you don't even want to look at them?
@@ -290,7 +286,7 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 
 ---
 
-#### How to learn?
+#### How to learn?<!-- omit in toc -->
 
 This tutorial is entirely for absolute beginners, even if you don't know the most basic tools.
 
