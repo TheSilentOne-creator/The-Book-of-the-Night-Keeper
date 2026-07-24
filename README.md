@@ -52,7 +52,7 @@
 | :--- | :--- | :--- | :--- |
 | 01 | **玩转 Markdown** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/01. 玩转 Markdown/01.玩转 Markdown.md>) |
 | 02 | **玩转 VS Code** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/02. 玩转 VS Code/02. 玩转 VS Code.md>) |
-| 03 | **VIM 从入门到得体** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/03. VIM 从入门到得体/03. VIM 从入门到得体.md>) |
+| 03 | **VIM 从入门到得体** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/03. VIM 从入门到得体/03. VIM 从入门到得体.md>) |
 | 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
 | 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
 | 06 | `[进阶]` **用 Python 写安全工具** | :pencil: 等待中 | 敬请期待 |
@@ -193,8 +193,6 @@ flowchart LR
 
 > *Learning security from scratch. Two hours a day, rain or shine.*
 
----
-
 ### :book: What is this?
 
 An open notebook documenting my journey from zero to cybersecurity.
@@ -222,10 +220,10 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 | :--- | :--- | :--- | :--- |
 | 01 | **Mastering Markdown** | :pencil: Translating | Coming soon |
 | 02 | **Mastering VS Code** | :pencil: Translating | Coming soon |
-| 03 | **VIM: From Entry to Decency** | :construction: Writing | Coming soon |
+| 03 | **VIM: From Entry to Decency** | :pencil: Translating | Coming soon |
 | 04 | **Git & GitHub by the Horns** | :pencil: Planned | Coming soon |
 | 05 | **This Is Cybersecurity (6 Seasons)** | :construction: Writing | Coming soon |
-| 06 | `[Advanced]` **Writing Security Tools in Python** | :date: Planned | Coming soon |
+| 06 | `[Advanced]` **Writing Security Tools in Python** | :pencil: Planned | Coming soon |
 | 07 | `[Advanced]` **Rust: The Ash War** | :construction: Writing | Coming soon |
 | 08 | `[Advanced]` **The Computer Science Canon Explained** | :pencil: Translating | Coming soon |
 
