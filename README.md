@@ -1,32 +1,29 @@
-# 守夜者之书 / The Night Keeper's Book
+# 守夜者之书 / The Night Keeper's Book<!-- omit in toc -->
 
-![GitHub stars](https://img.shields.io/github/stars/TheSilentOne-creator/The-Night-Keeper-s-Book?style=social)
-![GitHub license](https://img.shields.io/github/license/TheSilentOne-creator/The-Night-Keeper-s-Book)
+![GitHub stars](https://img.shields.io/github/stars/TheSilentOne-creator/The-Night-Keeper-s-Book?style=social) ![Free](https://img.shields.io/badge/Free-100%25-2E5A88) [![GitHub last commit](https://img.shields.io/github/last-commit/TheSilentOne-creator/The-Night-Keeper-s-Book?style=flat-square)](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) [![License](https://img.shields.io/badge/License-CC_BY_4.0-2E5A88?style=flat-square)](./LICENSE)
 
-## 目录 / Table of Contents
+---
 
-- [守夜者之书 / The Night Keeper's Book](#守夜者之书--the-night-keepers-book)
-  - [目录 / Table of Contents](#目录--table-of-contents)
-  - [中文版](#中文版)
-    - [:book: 这是什么](#book-这是什么)
-    - [:books: 这里有什么](#books-这里有什么)
-    - [:rocket: 从哪里开始](#rocket-从哪里开始)
-    - [:globe\_with\_meridians: 关于守夜者](#globe_with_meridians-关于守夜者)
-    - [:page\_facing\_up: 许可证](#page_facing_up-许可证)
-  - [English version](#english-version)
-    - [:book: What is this?](#book-what-is-this)
-    - [:books: What's inside?](#books-whats-inside)
-    - [:rocket: Where to start?](#rocket-where-to-start)
-    - [:globe\_with\_meridians: About the Night Keepers](#globe_with_meridians-about-the-night-keepers)
-    - [:page\_facing\_up: License](#page_facing_up-license)
+## 目录 / Table of Contents<!-- omit in toc -->
+
+- [中文版](#中文版)
+  - [:book: 这是什么](#book-这是什么)
+  - [:books: 这里有什么](#books-这里有什么)
+  - [:rocket: 从哪里开始](#rocket-从哪里开始)
+  - [:globe\_with\_meridians: 关于守夜者](#globe_with_meridians-关于守夜者)
+  - [:page\_facing\_up: 许可证](#page_facing_up-许可证)
+- [English version](#english-version)
+  - [:book: What is this?](#book-what-is-this)
+  - [:books: What's inside?](#books-whats-inside)
+  - [:rocket: Where to start?](#rocket-where-to-start)
+  - [:globe\_with\_meridians: About the Night Keepers](#globe_with_meridians-about-the-night-keepers)
+  - [:page\_facing\_up: License](#page_facing_up-license)
 
 ---
 
 ## 中文版
 
 > 从零开始学安全。每天2小时，雷打不动。
-
----
 
 ### :book: 这是什么
 
@@ -58,9 +55,9 @@
 | 03 | **VIM 从入门到得体** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/03. VIM 从入门到得体/03. VIM 从入门到得体.md>) |
 | 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
 | 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
-| 06 | `[进阶]` **用 Python 写安全工具** | :date: 计划中 | 敬请期待 |
+| 06 | `[进阶]` **用 Python 写安全工具** | :pencil: 等待中 | 敬请期待 |
 | 07 | `[进阶]` **最终章 - Rust：灰烬之战** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/07. [进阶] 最终章 - Rust：灰烬之战/07. [进阶] 最终章 - Rust：灰烬之战.md>) |
-| 08 | `[进阶]` **详解计算机科学丛书** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/08. [进阶] 详解计算机科学丛书/01.《编码》逐章精读指南/01.《编码》逐章精读指南.md>) |
+| 08 | `[进阶]` **详解计算机科学丛书** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/08. [进阶] 详解计算机科学丛书/README.md>) |
 
 > 所有教程采用**中英双语**编写：先用中文写完，再翻译成英文。
 
