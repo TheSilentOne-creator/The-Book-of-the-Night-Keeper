@@ -55,11 +55,13 @@
 | 03 | **VIM 从入门到得体** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/03. VIM 从入门到得体/03. VIM 从入门到得体.md>) |
 | 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
 | 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
-| 06 | `[进阶]` **用 Python 写安全工具** | :pencil: 等待中 | 敬请期待 |
+| 06 | `[中阶]` **这才是 Python** | :pencil: 等待中 | 敬请期待 |
 | 07 | `[进阶]` **最终章 - Rust：灰烬之战** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/07. [进阶] 最终章 - Rust：灰烬之战/07. [进阶] 最终章 - Rust：灰烬之战.md>) |
 | 08 | `[进阶]` **详解计算机科学丛书** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/08. [进阶] 详解计算机科学丛书/README.md>) |
 
 > 所有教程采用**中英双语**编写：先用中文写完，再翻译成英文。
+
+---
 
 #### 各教程介绍<!-- omit in toc -->
 
@@ -93,11 +95,14 @@
    - 从Web渗透到内网漫游，从信息收集到日志溯源，这条路我给你铺好了，你只需要跟着走。
    - **学完这一课，你将解锁：** 完整的网络安全知识体系 + 一套可以在面试官面前侃侃而谈的实战项目经验。
 
-6. `[进阶]` **用 Python 写安全工具** - 不要重复造轮子，但要学会改装轮子
-   - 只会用别人写好的工具，你永远是个脚本小子。
-   - 当 SQLMap 跑不出注入时，当 Nmap 扫得不够精细时，你需要自己写一个脚本。
-   - 这套教程不讲爬虫和Web开发，只讲**网安视角的Python**：写一个端口扫描器、写一个弱口令爆破工具、写一个日志分析脚本。
-   - **学完这一课，你将解锁：** 把枯燥的渗透工作自动化——点一下鼠标，让电脑帮你干活，然后你去喝杯咖啡。
+6. **这才是 Python** - 从零开始，用 Python 武装你的安全工具链
+   - Python 是渗透测试行业的“通用胶水”——从信息收集到漏洞利用，从爬虫到图形界面，它无处不在。
+   - 这个系列分为四个子课程，从 Web 基础到 Flask 开发，从爬虫到 GUI，从基础脚本到进阶安全工具——一条完整的 Python 学习路径。
+   - **子课程：**
+     - **06-1. Web 通识扫盲课**：零基础也能懂的 Web 世界。HTML、CSS、JavaScript 各自负责什么，浏览器和服务器之间怎么通信。
+     - **06-2. Flask Web 开发**：用 Python 搭建你的第一个网站。从路由到模板，从表单到数据库，写出的网站以后就是你测试安全工具的“自家靶场”。
+     - **06-3. 用 Python 写安全工具（基础）**：从爬虫到 GUI。把你的脚本包装成带界面的工具，让别人双击就能用。
+     - **06-4. `[进阶]` 用 Python 写安全工具（进阶）**：网安视角的 Python——端口扫描器、弱口令爆破、日志分析脚本。把枯燥的渗透工作自动化。
 
 7. `[进阶]` **Rust：灰烬之战** - 这不是一门语言课，这是一场你必须写 Rust 才能活下来的战争
    - “碎镜”爆发后的第 247 天。你在数据废墟中收到一个信号：“守夜者，你还在吗？”要回应它，你必须先学会用 Rust 锻造自己的武器。
@@ -121,8 +126,6 @@
 
 **核心原则：以网络安全为主线，工具和语言在实战中随用随学。**
 
----
-
 1. **务必先学 `01. 玩转 Markdown`**  
    这是你写文档、做笔记，乃至**写漏洞报告**时都要使用的一种**标记语言**（类似于 Word，但是纯文本！）。它是整个学习旅程的书写基础。
 
@@ -138,11 +141,11 @@
 5. **进入第一季后半段或第二季时，开始 `03. VIM 从入门到得体`**  
    等你需要操作远程服务器，或者想在终端里更快地编辑配置文件时，VIM 就是你的必修课。它很难，但和网络安全同步学会让你事半功倍。
 
-6. **当需要编写自己的扫描器、利用脚本或高性能工具时，请出神兵 `07. Rust：灰烬之战`**  
-   这不是一门普通的编程语言课。这是一场你必须用 Rust 才能活下来的战争。当你在安全学习中需要更快、更底层的工具时，这本叙事驱动的 Rust 实战教程会在故事中教会你一切。
+6. **想学 Python 写工具？跟着 Python 系列走**  
+   Python 系列 (`06-1`~`06-4`) 是一条完整的路径：先学 Web 基础 (`06-1`) → 再学 Flask 开发 (`06-2`) → 然后写带界面的爬虫工具 (`06-3`) → 最后进阶到安全工具开发 (`06-4`)。你可以按顺序学，也可以根据需要在安全实战中随时跳进某一本。
 
-7. **想让攻击自动化？`06. 用 Python 写安全工具`**  
-   当你在安全实战中有了“这个重复工作能不能自动化”的想法时，就是打开这本教程的最佳时机。
+7. **当需要编写自己的扫描器、利用脚本或高性能工具时，请出神兵 `07. Rust：灰烬之战`**  
+   这不是一门普通的编程语言课。这是一场你必须用 Rust 才能活下来的战争。当你在安全学习中需要更快、更底层的工具时，这本叙事驱动的 Rust 实战教程会在故事中教会你一切。
 
 8. **最后，修炼内功：`08. 详解计算机科学丛书`**  
    如果你觉得看完了上面的教程，感觉自己“啥都会了但又啥都不会”，说明你缺了**内功**。这份伴读指南会告诉你，那些经典的“黑皮书”里，哪些是必读的、哪些可以跳过。
@@ -161,6 +164,10 @@ flowchart LR
     E --> G[05. 网络安全 - 第二季]
     G --> H[05. 网络安全 - 第三季]
     F --> I[07. Rust: 灰烬之战]
+    C --> J[06-1. Web通识扫盲课]
+    J --> K[06-2. Flask Web开发]
+    K --> L[06-3. Python安全工具 基础]
+    L --> M[06-4. Python安全工具 进阶]
     
 ```
 
@@ -174,8 +181,6 @@ flowchart LR
 - **我们不做**：非法攻击、盈利、暴露成员身份
 
 **守夜者宣言**：长夜将至，我从今开始守夜，今夜如此，夜夜皆然。
-
----
 
 > **加入我们**:  
 > 如果你也在从零开始，想找个人一起守夜，Fork 这个仓库，写下你的第一行笔记。  
@@ -223,11 +228,13 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 | 03 | **VIM: From Entry to Decency** | :pencil: Translating | Coming soon |
 | 04 | **Git & GitHub by the Horns** | :pencil: Planned | Coming soon |
 | 05 | **This Is Cybersecurity (6 Seasons)** | :construction: Writing | Coming soon |
-| 06 | `[Advanced]` **Writing Security Tools in Python** | :pencil: Planned | Coming soon |
+| 06 | `[Intermediate]` **This Is Python** | :pencil: Planned | Coming soon |
 | 07 | `[Advanced]` **Rust: The Ash War** | :construction: Writing | Coming soon |
 | 08 | `[Advanced]` **The Computer Science Canon Explained** | :pencil: Translating | Coming soon |
 
 > *All tutorials are bilingual: first written in Chinese, then translated into English.*
+
+---
 
 #### Tutorial Introductions<!-- omit in toc -->
 
@@ -261,11 +268,14 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
     - From Web penetration testing to intranet roaming, from information gathering to log tracing, I've paved this path for you. You just need to follow it.
     - **What you'll unlock:** A complete cybersecurity knowledge system + a set of hands-on project experiences you can confidently discuss in front of an interviewer.
 
-6. `[Advanced]` **Writing Security Tools in Python** -- Don't reinvent the wheel, but learn how to customize it.
-    - If you only use tools others have written, you'll always be a script kiddie.
-    - When SQLMap can't extract an injection, and when Nmap isn't scanning precisely enough, you need to write your own script.
-    - This tutorial isn't about web scraping or web development. It's about **Python from a security perspective**: writing a port scanner, a weak password brute-force tool, a log analysis script.
-    - **What you'll unlock:** The ability to automate tedious penetration testing—click a button, let the computer do the work for you, then go grab a cup of coffee.
+6. **This Is Python** -- From scratch, arm your security toolchain with Python.
+    - Python is the "universal glue" of the penetration testing world—from information gathering to exploit development, from web scraping to GUI applications, it's everywhere.
+    - This series is divided into four sub-courses, covering everything from Web fundamentals to Flask development, from scraping to GUI, from basic scripting to advanced security tool development—a complete Python learning path.
+    - **Sub-courses:**
+      - **06-1. Web Fundamentals Crash Course**: Understand how the Web works, from scratch. What HTML, CSS, and JavaScript each do, and how browsers communicate with servers.
+      - **06-2. Flask Web Development**: Build your first website with Python. From routes to templates, from forms to databases—the site you build will later become your personal testing ground for security tools.
+      - **06-3. Writing Security Tools in Python (Basic)**: From web scraping to GUI. Wrap your scripts in a graphical interface so others can use them with a double-click.
+      - **06-4. `[Advanced]` Writing Security Tools in Python (Advanced)**: Python from a security perspective—port scanners, brute-force tools, log analysis scripts. Automate the tedious parts of penetration testing.
 
 7. `[Advanced]` **Rust: The Ash War** -- This is not a language course. This is a war you must write Rust to survive.
     - Day 247 after the "Shattered Mirror" outbreak. You intercept a signal from the data ruins: "Keeper, are you still there?" To answer, you must first forge your weapons in Rust.
@@ -306,16 +316,14 @@ To keep the foundational tools (`01`–`04`) from feeling boring and to get you 
 5. **In the latter half of Season One or during Season Two, begin `03. VIM: From Entry to Decency`**  
    When you need to operate remote servers, or want to edit config files faster in the terminal, VIM becomes essential. It's tough, but learning it alongside cybersecurity doubles your efficiency.
 
-6. **When you need to write your own scanners, exploits, or high-performance tools, unsheathe `07. Rust: The Ash War`**  
-   This is not an ordinary programming language course. This is a war you must survive by writing Rust. When your security work demands faster, lower-level tools, this narrative-driven Rust tutorial will teach you everything through its story.
+6. **Want to learn Python for writing tools? Follow the Python track**  
+   The Python series (`06-1`–`06-4`) is a complete path: start with Web Fundamentals (`06-1`) → then Flask Development (`06-2`) → then write GUI-based scraper tools (`06-3`) → finally advance to security tool development (`06-4`). You can follow the sequence, or jump into any course as needed during your security practice.
 
-7. **Want to automate your attacks? `06. Writing Security Tools in Python`**  
-   The moment you think "can this repetitive work be automated?" during security practice is the perfect time to open this tutorial.
+7. **When you need to write your own scanners, exploits, or high-performance tools, unsheathe `07. Rust: The Ash War`**  
+   This is not an ordinary programming language course. This is a war you must survive by writing Rust. When your security work demands faster, lower-level tools, this narrative-driven Rust tutorial will teach you everything through its story.
 
 8. **Finally, cultivate your inner strength: `08. The Computer Science Canon Explained`**  
    If you finish the tutorials above and feel like you "know everything and nothing at all," it means you're lacking **inner strength**. This reading companion tells you which of the classic "black books" are essential and which can be skimmed.
-
----
 
 After that, you can follow the rest of `05. This Is Cybersecurity (6 Seasons)` in order.
 
@@ -329,6 +337,10 @@ flowchart LR
     E --> G[05. Cybersecurity - Season Two]
     G --> H[05. Cybersecurity - Season Three]
     F --> I[07. Rust: The Ash War]
+    C --> J[06-1. Web Fundamentals]
+    J --> K[06-2. Flask Web Development]
+    K --> L[06-3. Python Security Tools Basic]
+    L --> M[06-4. Python Security Tools Advanced]
     
 ```
 
