@@ -1,6 +1,6 @@
 # 守夜者之书 / The Night Keeper's Book<!-- omit in toc -->
 
-![GitHub stars](https://img.shields.io/github/stars/TheSilentOne-creator/The-Night-Keeper-s-Book?style=social) ![Free](https://img.shields.io/badge/Free-100%25-2E5A88) [![GitHub last commit](https://img.shields.io/github/last-commit/TheSilentOne-creator/The-Night-Keeper-s-Book?style=flat-square)](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) [![License](https://img.shields.io/badge/License-CC_BY_4.0-2E5A88?style=flat-square)](./LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/TheSilentOne-creator/The-Night-Keeper-s-Book?style=social) ![Free](https://img.shields.io/badge/Free-100%25-2E5A88) [![GitHub last commit](https://img.shields.io/github/last-commit/TheSilentOne-creator/The-Night-Keeper-s-Book)](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) [![License](https://img.shields.io/badge/License-CC_BY_4.0-2E5A88)](./LICENSE)
 
 ---
 
