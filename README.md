@@ -52,7 +52,7 @@
 | :--- | :--- | :--- | :--- |
 | 01 | **玩转 Markdown** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/01. 玩转 Markdown/01.玩转 Markdown.md>) |
 | 02 | **玩转 VS Code** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/02. 玩转 VS Code/02. 玩转 VS Code.md>) |
-| 03 | **VIM 从入门到得体** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/03. VIM 从入门到得体/03. VIM 从入门到得体.md>) |
+| 03 | **Vim 从入门到得体** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/03. Vim 从入门到得体/03. Vim 从入门到得体.md>) |
 | 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
 | 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
 | 06 | `[中阶]` **这才是 Python** | :pencil: 等待中 | 敬请期待 |
@@ -77,7 +77,7 @@
    - 本教程手把手教你装上那些 **“开了挂”的插件** ：远程写服务器代码、AI帮你补全、一键格式化乱糟糟的代码。  
    - **学完这一课，你将解锁：** 一个能让你在任何地方（甚至iPad上）写代码的云端开发环境，让写代码变成一种享受。
 
-3. **VIM 从入门到得体** - 没有图形界面？那就用键盘征服世界
+3. **Vim 从入门到得体** - 没有图形界面？那就用键盘征服世界
    - 听好了，菜鸟。当你还在纠结用鼠标点击“保存”按钮时，真正的黑客早已在VIM里键入 `:wq` 潇洒离去。
    - VIM是Linux系统里的 **“文字游戏”** ，它的学习曲线陡峭得像悬崖。但只要你爬上去了，就能体验到“手不离键盘，思绪如流水”的快感。
    - 我们只讲10节必修课，外加6个选修方向。绝不让你背那些一辈子用不到的花哨命令。你只需要学会：**怎么进去、怎么改字、怎么保存、怎么拍桌子骂娘然后退出。**
@@ -138,7 +138,7 @@
 4. **在学第一季的同时，顺手拿下 `04. 拿捏 Git 与 GitHub`**  
    写代码、做项目，离不开版本控制。Git 帮你管理每一次修改，GitHub 让你的项目能被全世界看到。这时候学 Git，是因为你已经开始写安全练习的代码，需要版本管理了。
 
-5. **进入第一季后半段或第二季时，开始 `03. VIM 从入门到得体`**  
+5. **进入第一季后半段或第二季时，开始 `03. Vim 从入门到得体`**  
    等你需要操作远程服务器，或者想在终端里更快地编辑配置文件时，VIM 就是你的必修课。它很难，但和网络安全同步学会让你事半功倍。
 
 6. **想学 Python 写工具？跟着 Python 系列走**  
@@ -160,7 +160,7 @@ flowchart LR
     A --> C[05. 网络安全 - 第零季 : 火种]
     B --> D[04. Git & GitHub]
     C --> E[05. 网络安全 - 第一季]
-    D --> F[03. VIM]
+    D --> F[03. Vim]
     E --> G[05. 网络安全 - 第二季]
     G --> H[05. 网络安全 - 第三季]
     F --> I[07. Rust: 灰烬之战]
@@ -225,7 +225,7 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 | :--- | :--- | :--- | :--- |
 | 01 | **Mastering Markdown** | :pencil: Translating | Coming soon |
 | 02 | **Mastering VS Code** | :pencil: Translating | Coming soon |
-| 03 | **VIM: From Entry to Decency** | :pencil: Translating | Coming soon |
+| 03 | **Vim: From Entry to Decency** | :pencil: Translating | Coming soon |
 | 04 | **Git & GitHub by the Horns** | :pencil: Planned | Coming soon |
 | 05 | **This Is Cybersecurity (6 Seasons)** | :construction: Writing | Coming soon |
 | 06 | `[Intermediate]` **This Is Python** | :pencil: Planned | Coming soon |
@@ -250,9 +250,9 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
     - This tutorial will walk you through installing those **"cheat-code" plugins**: writing code on a remote server, AI-powered auto-completion, and formatting messy code with one click.
     - **What you'll unlock:** A cloud development environment that lets you write code anywhere (even on an iPad), turning coding into pure enjoyment.
 
-3. **VIM: From Entry to Decency** -- No GUI? Conquer the world with your keyboard.
-    - Listen up, rookie. While you're still fumbling with the mouse to click the "Save" button, a true hacker has already typed `:wq` in VIM and left the building.
-    - VIM is the **"text-based game"** in Linux systems. Its learning curve is as steep as a cliff. But once you climb it, you'll experience the flow state of "hands never leaving the keyboard, thoughts flowing like water."
+3. **Vim: From Entry to Decency** -- No GUI? Conquer the world with your keyboard.
+    - Listen up, rookie. While you're still fumbling with the mouse to click the "Save" button, a true hacker has already typed `:wq` in Vim and left the building.
+    - Vim is the **"text-based game"** in Linux systems. Its learning curve is as steep as a cliff. But once you climb it, you'll experience the flow state of "hands never leaving the keyboard, thoughts flowing like water."
     - We cover 10 mandatory lessons plus 6 elective modules. I won't make you memorize fancy commands you'll never use. You just need to learn: **how to enter, how to change text, how to save, and how to slam the table, curse, and exit.**
     - **What you'll unlock:** The confidence to smoothly write code on any server (even one with only a command line), and the status of becoming the "Keyboard Warrior" in the eyes of your roommates.
 
@@ -313,8 +313,8 @@ To keep the foundational tools (`01`–`04`) from feeling boring and to get you 
 4. **While studying Season One, pick up `04. Git & GitHub by the Horns`**  
    Writing code and doing projects requires version control. Git manages your changes, GitHub lets the world see your work. You're learning this now because you're starting to write security practice code.
 
-5. **In the latter half of Season One or during Season Two, begin `03. VIM: From Entry to Decency`**  
-   When you need to operate remote servers, or want to edit config files faster in the terminal, VIM becomes essential. It's tough, but learning it alongside cybersecurity doubles your efficiency.
+5. **In the latter half of Season One or during Season Two, begin `03. Vim: From Entry to Decency`**  
+   When you need to operate remote servers, or want to edit config files faster in the terminal, Vim becomes essential. It's tough, but learning it alongside cybersecurity doubles your efficiency.
 
 6. **Want to learn Python for writing tools? Follow the Python track**  
    The Python series (`06-1`–`06-4`) is a complete path: start with Web Fundamentals (`06-1`) → then Flask Development (`06-2`) → then write GUI-based scraper tools (`06-3`) → finally advance to security tool development (`06-4`). You can follow the sequence, or jump into any course as needed during your security practice.
@@ -333,7 +333,7 @@ flowchart LR
     A --> C[05. Cybersecurity - Season Zero: The Spark]
     B --> D[04. Git & GitHub]
     C --> E[05. Cybersecurity - Season One]
-    D --> F[03. VIM]
+    D --> F[03. Vim]
     E --> G[05. Cybersecurity - Season Two]
     G --> H[05. Cybersecurity - Season Three]
     F --> I[07. Rust: The Ash War]
