@@ -52,7 +52,7 @@
 | :--- | :--- | :--- | :--- |
 | 01 | **玩转 Markdown** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/01. 玩转 Markdown/01.玩转 Markdown.md>) |
 | 02 | **玩转 VS Code** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/02. 玩转 VS Code/02. 玩转 VS Code.md>) |
-| 03 | **Vim 从入门到得体** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/03. Vim 从入门到得体/03. Vim 从入门到得体.md>) |
+| 03 | **Vim 从入门到得体** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/03. Vim 从入门到得体/03. VIM 从入门到得体.md>) |
 | 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
 | 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
 | 06 | `[中阶]` **这才是 Python** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/06. [中阶] 这才是 Python/README.md>) |
@@ -190,7 +190,7 @@ flowchart LR
 
 ### :page_facing_up: 许可证
 
-本仓库内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议（署名-非商业性使用-相同方式共享）。
+本仓库内容采用 [CC BY-NC-SA 4.0](./LICENSE) 协议（署名-非商业性使用-相同方式共享）。
 
 ---
 
@@ -365,4 +365,4 @@ I am a member of the Night Keepers, a tech learning community.
 
 ### :page_facing_up: License
 
-*This repository is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license (Attribution-NonCommercial-ShareAlike).*
+*This repository is licensed under the [CC BY-NC-SA 4.0](./LICENSE) license (Attribution-NonCommercial-ShareAlike).*
