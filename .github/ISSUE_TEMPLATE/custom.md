@@ -23,4 +23,4 @@ If you have a fix in mind—a better explanation, a corrected command, a missing
 
 ---
 
-*You found a crack in the wall. Help us patch it so the next Keeper doesn't trip over the same stone. 🔪*
+*You found a crack in the wall. Help us patch it so the next Keeper doesn't trip over the same stone. 🔪*  
