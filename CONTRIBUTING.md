@@ -43,10 +43,11 @@
    ```
 
    分支名用英文，简短描述你要做什么：
-   - `fix-typo-chapter3`：修复第三章的错别字
-   - `add-vim-cheatsheet`：添加 Vim 速查表
-   - `translate-readme-en`：翻译 README 英文版
-   - `update-install-steps`：更新安装步骤截图
+
+   - `Fix-typo-Chapter3`：修复第三章的错别字
+   - `Add-vim-Cheatsheet`：添加 Vim 速查表
+   - `Translate-README-en`：翻译 README 英文版
+   - `Update-install-steps`：更新安装步骤截图
 
 4. **修改内容**：修改你 Fork 下来的文件。保存后提交。
 5. **Push 到你的仓库**：
@@ -89,14 +90,14 @@
 
 **Markdown 规范**  
 
-- **代码块分隔符**：使用 `'''` 包裹代码块，不使用 ` ``` `。
+- **代码块分隔符**：使用 ` ``` ` 包裹代码块，不使用 ` ''' `。
 - **标题层级**：`#` 后面有一个空格。标题层级不跳级（`##` 下面不能直接出现 `####`）。
-- **图片路径**：使用相对路径，格式为 `![描述](<Images/Chapter-X/xxx.png>)`。
+- **图片路径**：使用相对路径，格式为 `![描述](<./Images/Chapter-X/X.X/xxx.png>)`。
 - **内部链接**：教程内部引用其他章节时使用锚点链接。
 
 **中英文排版规范**  
 
-- **中文段落**：使用全角标点符号（，。！？）。
+- **中文段落**：使用全角标点符号（`，。！？`）。
 - **Markdown 语法符号**：`#`、`-`、`*`、`>`、`[`、`(` 等语法符号永远使用半角。
 - **专有名词**：首字母大写。如 GitHub、Python、VS Code、Burp Suite。
 - **英文单词前后有空格**：中文段落中嵌入的英文单词，前后各留一个半角空格。
@@ -104,7 +105,7 @@
 **教程风格规范**  
 
 - **守夜者风格**：保持幽默风趣、面向零基础的写作风格。用生活中的比喻解释技术概念。
-- **Kate 的错误示范**：所有错误示范都是 Kate 写的。遵循“正确写法 → Kate 的翻车现场 → 原因分析 → 避坑指南”的四步结构。
+- **Kate 的错误示范**：所有错误示范都是 Kate 写的。遵循 **“正确写法 → Kate 的翻车现场 → 原因分析 → 避坑指南”** 的四步结构。
 - **零基础视角**：不要假设读者已经知道某个术语。每个新概念出现时，先用通俗语言解释它是什么，再教怎么用。
 
 ### 你可以贡献什么
@@ -124,7 +125,7 @@
 
 ### 许可证
 
-本仓库内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议。你对本仓库的任何贡献，都将以相同的许可证发布。
+本仓库内容采用 [CC BY-NC-SA 4.0](./LICENSE) 协议。你对本仓库的任何贡献，都将以相同的许可证发布。
 
 ---
 
@@ -146,6 +147,7 @@
    ```
 
    Use a short English name that describes what you're doing:
+
    - `fix-typo-chapter3`: Fix typos in Chapter 3
    - `add-vim-cheatsheet`: Add a Vim cheatsheet
    - `translate-readme-en`: Translate README to English
@@ -192,14 +194,14 @@ This project uses a concise commit message format: `status language-tutorial-sec
 
 **Markdown Style**  
 
-- **Code block delimiters**: Use `'''` to wrap code blocks, not ` ``` `.
+- **Code block delimiters**: Use ` ``` ` to wrap code blocks, not ` ''' `.
 - **Heading levels**: There is a space after `#`. Heading levels should not skip (no `####` directly under `##`).
-- **Image paths**: Use relative paths in the format `![description](<Images/Chapter-X/xxx.png>)`.
+- **Image paths**: Use relative paths in the format `![description](<./Images/Chapter-X/X.X/xxx.png>)`.
 - **Internal links**: Use anchor links when referencing other sections within the tutorial.
 
 **Chinese-English Formatting Style**  
 
-- **Chinese paragraphs**: Use full-width punctuation (，。！？).
+- **Chinese paragraphs**: Use full-width punctuation (`，。！？`).
 - **Markdown syntax symbols**: `#`, `-`, `*`, `>`, `[`, `(` should always be half-width.
 - **Proper nouns**: Capitalize the first letter. e.g., GitHub, Python, VS Code, Burp Suite.
 - **Spacing around English words**: English words embedded in Chinese paragraphs should have a half-width space before and after.
@@ -227,4 +229,4 @@ If you have any questions or suggestions, please post them in [Issues](https://g
 
 ### License
 
-This repository is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. Any contributions you make to this repository will be released under the same license.
+This repository is licensed under the [CC BY-NC-SA 4.0](./LICENSE) license. Any contributions you make to this repository will be released under the same license.
