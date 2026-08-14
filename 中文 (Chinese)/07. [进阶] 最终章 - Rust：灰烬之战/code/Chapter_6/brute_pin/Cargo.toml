@@ -1,7 +1,0 @@
-[package]
-name = "brute_pin"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-nightwatch_core = { path = "../nightwatch_core" }
