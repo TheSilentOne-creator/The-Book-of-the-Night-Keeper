@@ -80,7 +80,7 @@
 3. **Vim 从入门到得体** - 没有图形界面？那就用键盘征服世界
    - 听好了，菜鸟。当你还在纠结用鼠标点击“保存”按钮时，真正的黑客早已在 Vim 里键入 `:wq` 潇洒离去。
    - Vim 是 Linux 系统里的 **“文字游戏”** ，它的学习曲线陡峭得像悬崖。但只要你爬上去了，就能体验到“手不离键盘，思绪如流水”的快感。
-   - 我们只讲10节必修课，外加6个选修方向。绝不让你背那些一辈子用不到的花哨命令。你只需要学会：**怎么进去、怎么改字、怎么保存、怎么拍桌子骂娘然后退出。**
+   - 我们只讲 10 节必修课，外加 8 个选修方向。绝不让你背那些一辈子用不到的花哨命令。你只需要学会：**怎么进去、怎么改字、怎么保存、怎么拍桌子骂娘然后退出。**
    - **学完这一课，你将解锁：** 在任何一个服务器上（哪怕只有命令行）都能流畅写代码的底气，以及成为室友眼中的“键盘侠”。
 
 4. **拿捏 Git 与 GitHub** - 别再把你的代码存桌面了！
@@ -106,7 +106,7 @@
 
 7. `[进阶]` **Rust：灰烬之战** - 这不是一门语言课，这是一场你必须写 Rust 才能活下来的战争
    - “碎镜”爆发后的第 247 天。你在数据废墟中收到一个信号：“守夜者，你还在吗？”要回应它，你必须先学会用 Rust 锻造自己的武器。
-   - 从“爆破弱口令”到“日志猎手”，从“并发反击”到“自毁与永恒”——15 个章节，12 个真实工具，一段从废墟到牺牲的完整叙事。
+   - 从“爆破弱口令”到“日志猎手”，从“并发反击”到“自毁与永恒”——17 个章节，15 个真实工具，一段从废墟到牺牲的完整叙事。
    - 所有权不再是晦涩的内存模型，而是“情报原件只有一份，读完必须销毁”。生命周期不再是编译器报错，而是“牛奶的保质期”。
    - **学完这一课，你将解锁：** 一门高性能系统语言的完整实战能力，以及一段你永远忘不了的战争记忆。
 
@@ -253,7 +253,7 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 3. **Vim: From Entry to Decency** -- No GUI? Conquer the world with your keyboard.
     - Listen up, rookie. While you're still fumbling with the mouse to click the "Save" button, a true hacker has already typed `:wq` in Vim and left the building.
     - Vim is the **"text-based game"** in Linux systems. Its learning curve is as steep as a cliff. But once you climb it, you'll experience the flow state of "hands never leaving the keyboard, thoughts flowing like water."
-    - We cover 10 mandatory lessons plus 6 elective modules. I won't make you memorize fancy commands you'll never use. You just need to learn: **how to enter, how to change text, how to save, and how to slam the table, curse, and exit.**
+    - We cover 10 mandatory lessons plus 8 elective modules. I won't make you memorize fancy commands you'll never use. You just need to learn: **how to enter, how to change text, how to save, and how to slam the table, curse, and exit.**
     - **What you'll unlock:** The confidence to smoothly write code on any server (even one with only a command line), and the status of becoming the "Keyboard Warrior" in the eyes of your roommates.
 
 4. **Git & GitHub by the Horns** -- Stop saving your code to your desktop!

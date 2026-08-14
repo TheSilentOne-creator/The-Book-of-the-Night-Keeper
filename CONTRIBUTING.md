@@ -46,7 +46,7 @@
 
    - `Fix-typo-Chapter3`：修复第三章的错别字
    - `Add-vim-Cheatsheet`：添加 Vim 速查表
-   - `Translate-README-en`：翻译 README 英文版
+   - `Translate-en-README`：翻译 README 英文版
    - `Update-install-steps`：更新安装步骤截图
 
 4. **修改内容**：修改你 Fork 下来的文件。保存后提交。
@@ -92,7 +92,7 @@
 
 - **代码块分隔符**：使用 ` ``` ` 包裹代码块，不使用 ` ''' `。
 - **标题层级**：`#` 后面有一个空格。标题层级不跳级（`##` 下面不能直接出现 `####`）。
-- **图片路径**：使用相对路径，格式为 `![描述](<./Images/Chapter-X/X.X/xxx.png>)`。
+- **图片路径**：使用相对路径，格式为 `![英文描述](<./Images/Chapter-X/X.X/xxx.png>)`。
 - **内部链接**：教程内部引用其他章节时使用锚点链接。
 
 **中英文排版规范**  
@@ -148,10 +148,10 @@
 
    Use a short English name that describes what you're doing:
 
-   - `fix-typo-chapter3`: Fix typos in Chapter 3
-   - `add-vim-cheatsheet`: Add a Vim cheatsheet
-   - `translate-readme-en`: Translate README to English
-   - `update-install-steps`: Update installation step screenshots
+   - `Fix-typo-chapter3`: Fix typos in Chapter 3
+   - `Add-vim-cheatsheet`: Add a Vim cheatsheet
+   - `Translate-en-README`: Translate README to English
+   - `Update-install-steps`: Update installation step screenshots
 
 4. **Make your changes**: Edit the files you've forked. Save and commit.
 5. **Push to your repository**:
