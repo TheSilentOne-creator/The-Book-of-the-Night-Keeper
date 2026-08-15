@@ -53,8 +53,8 @@
 | 01 | **玩转 Markdown** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/01. 玩转 Markdown/01.玩转 Markdown.md>) |
 | 02 | **玩转 VS Code** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/02. 玩转 VS Code/02. 玩转 VS Code.md>) |
 | 03 | **Vim 从入门到得体** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/03. Vim 从入门到得体/03. Vim 从入门到得体.md>) |
-| 04 | **拿捏 Git 与 GitHub** | :pencil: 等待中 | 敬请期待 |
-| 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
+| 04 | **拿捏 Git 与 GitHub** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/04. 拿捏 Git 与 GitHub/04. 拿捏 Git 与 GitHub.md>) |
+| 05 | **这才是网络安全 (全六季)** | :pencil: 等待中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
 | 06 | `[中阶]` **这才是 Python** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/06. [中阶] 这才是 Python/README.md>) |
 | 07 | `[进阶]` **最终章 - Rust：灰烬之战** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/07. [进阶] 最终章 - Rust：灰烬之战/07. [进阶] 最终章 - Rust：灰烬之战.md>) |
 | 08 | `[进阶]` **详解计算机科学丛书** | :construction: 长期更新 | [开始阅读](<./中文 (Chinese)/08. [进阶] 详解计算机科学丛书/README.md>) |
@@ -226,8 +226,8 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 | 01 | **Mastering Markdown** | :pencil: Translating | Coming soon |
 | 02 | **Mastering VS Code** | :pencil: Translating | Coming soon |
 | 03 | **Vim: From Entry to Decency** | :pencil: Translating | Coming soon |
-| 04 | **Git & GitHub by the Horns** | :pencil: Planned | Coming soon |
-| 05 | **This Is Cybersecurity (6 Seasons)** | :construction: Writing | Coming soon |
+| 04 | **Git & GitHub by the Horns** | :construction: Writing | Coming soon |
+| 05 | **This Is Cybersecurity (6 Seasons)** | :pencil: Planned | Coming soon |
 | 06 | `[Intermediate]` **This Is Python** | :construction: Writing | Coming soon |
 | 07 | `[Advanced]` **Rust: The Ash War** | :construction: Writing | Coming soon |
 | 08 | `[Advanced]` **The Computer Science Canon Explained** | :pencil: Translating | Coming soon |

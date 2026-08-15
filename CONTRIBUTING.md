@@ -33,7 +33,7 @@
 2. **Clone 到本地**：
 
    ```bash
-   git clone https://github.com/你的用户名/The-Night-Keeper-s-Book.git
+   git clone https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book.git
    ```
 
 3. **创建分支**：
@@ -90,7 +90,6 @@
 
 **Markdown 规范**  
 
-- **代码块分隔符**：使用 ` ``` ` 包裹代码块，不使用 ` ''' `。
 - **标题层级**：`#` 后面有一个空格。标题层级不跳级（`##` 下面不能直接出现 `####`）。
 - **图片路径**：使用相对路径，格式为 `![英文描述](<./Images/Chapter-X/X.X/xxx.png>)`。
 - **内部链接**：教程内部引用其他章节时使用锚点链接。
@@ -137,7 +136,7 @@
 2. **Clone to your local machine**:
 
    ```bash
-   git clone https://github.com/your-username/The-Night-Keeper-s-Book.git
+   git clone https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book.git
    ```
 
 3. **Create a branch**:
@@ -194,7 +193,6 @@ This project uses a concise commit message format: `status language-tutorial-sec
 
 **Markdown Style**  
 
-- **Code block delimiters**: Use ` ``` ` to wrap code blocks, not ` ''' `.
 - **Heading levels**: There is a space after `#`. Heading levels should not skip (no `####` directly under `##`).
 - **Image paths**: Use relative paths in the format `![description](<./Images/Chapter-X/X.X/xxx.png>)`.
 - **Internal links**: Use anchor links when referencing other sections within the tutorial.
